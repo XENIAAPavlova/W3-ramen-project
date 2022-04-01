@@ -9,3 +9,11 @@ h1 {
 a {
     color: #f2f2f2;
 }
+
+p {
+    color:#f2f2f2;
+}
+
+.text-center {
+    text-align: center;
+}

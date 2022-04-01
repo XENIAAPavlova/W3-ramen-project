@@ -12,7 +12,12 @@ p {
     display: flex;
     justify-content: center;
     width: 50%;
-
+}
+.more-photos {
+    color:#f2f2f2;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
 }
 
 .links, a {
@@ -27,4 +32,8 @@ p {
 .about-paragraphs {
     display: flex;
     justify-content: center;
+}
+.ramen-photo , img {
+text-align: center;
+border-radius: 20px;
 }
